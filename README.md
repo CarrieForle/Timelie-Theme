@@ -1,3 +1,5 @@
+![Preview of the Timelie Theme](https://i.imgur.com/9vgld2l.png)
+
 # [Timelie](https://timelie.urniquestudio.com/) Theme
 A fan-made theme for the game [Timelie](https://timelie.urniquestudio.com/) on Firefox
 
