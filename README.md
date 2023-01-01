@@ -4,5 +4,6 @@ A fan-made theme for the game [Timelie](https://timelie.urniquestudio.com/) on F
 ## What is [Timelie](https://timelie.urniquestudio.com/)
 [Timelie](https://timelie.urniquestudio.com/) is an indie puzzle game made by [Urnique Studio](https://urniquestudio.com/).
 The game is now available on PC and Nintendo Switch.
---
-Download in (zip), (xpi)
+
+## Downloads
+zip xpi
