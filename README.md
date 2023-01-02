@@ -8,4 +8,4 @@ A fan-made theme for the game [Timelie](https://timelie.urniquestudio.com/) on F
 The game is now available on PC and Nintendo Switch.
 
 ## Downloads
-[zip](https://github.com/CarrieForle/Timelie-Theme/raw/main/Timelie.zip) [xpi](https://github.com/CarrieForle/Timelie-Theme/raw/main/Timelie.xpi)
+[zip](https://github.com/CarrieForle/Timelie-Theme/releases/latest/download/Timelie.zip) [xpi](https://github.com/CarrieForle/Timelie-Theme/releases/latest/download/Timelie.zip)
