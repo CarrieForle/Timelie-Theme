@@ -1,0 +1,57 @@
+{
+    "manifest_version":2,
+    "version":"1.2",
+    "name":"Timelie",
+    "theme":{
+        "images":{
+            "theme_frame":
+			"images/main.png"
+        },
+        "properties":{
+            "additional_backgrounds_alignment":[
+                "right top"
+            ],
+            "additional_backgrounds_tiling":[
+                "repeat"
+            ]
+        },
+        "colors":{
+            "button_background_active":"rgba(17, 132, 163, 0.73)",
+            "button_background_hover":"rgba(203, 50, 90, 0.58)",
+            "frame":"rgb(22,89,129)",
+            "icons":"rgb(255, 255, 255)",
+            "icons_attention":"rgb(230, 96, 119)",
+            "ntp_background":"rgb(63, 134, 204)",
+            "popup":"rgba(49, 2, 2, 0.66)",
+            "popup_text":"rgb(255, 255, 255)",
+            "popup_border":"rgb(229, 69, 73)",
+            "popup_highlight":"rgba(139, 10, 10, 0.65)",
+            "popup_highlight_text":"rgb(255, 255, 255)",
+            "sidebar":"rgb(35, 76, 122)",
+            "sidebar_border":"rgb(108, 160, 224)",
+            "sidebar_highlight":"rgb(3, 25, 67)",
+            "tab_background_text":"rgb(255, 255, 255)",
+            "tab_line":"rgb(242, 77, 133)",
+            "tab_loading":"rgb(27, 103, 196)",
+            "tab_selected":"rgba(176, 61, 75, 0.57)",
+            "tab_text":"rgb(255, 255, 255)",
+            "toolbar":"rgba(149, 50, 50, 0)",
+            "toolbar_text":"rgb(255, 255, 255)",
+            "toolbar_field":"rgba(56, 0, 0, 0.27)",
+			"toolbar_field_border":"rgba(229, 69, 73, 0.4)",
+			"toolbar_field_border_focus":"rgb(229, 69, 73)",
+            "toolbar_field_text":"rgb(255, 255, 255)",
+            "toolbar_field_focus":"rgba(42, 10, 10, 0.96)",
+            "toolbar_field_highlight":"rgb(250, 105, 105)",
+            "toolbar_field_highlight_text":"rgb(56, 11, 21)",
+            "toolbar_field_text_focus":"rgb(255, 255, 255)",
+            "toolbar_top_separator":"rgba(24, 31, 40, 0)",
+            "toolbar_vertical_separator":"rgb(255, 255, 255)"
+        }
+    },
+    "browser_specific_settings":{
+        "gecko":{
+            "id":"{fa7284eb-158a-443e-bced-c9190210c6ae}"
+        }
+    }
+}
