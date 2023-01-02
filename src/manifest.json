@@ -1,6 +1,6 @@
 {
     "manifest_version":2,
-    "version":"1.1",
+    "version":"1.2",
     "name":"Timelie",
     "theme":{
         "images":{
@@ -42,8 +42,8 @@
 			"toolbar_field_border_focus":"rgb(229, 69, 73)",
             "toolbar_field_text":"rgb(255, 255, 255)",
             "toolbar_field_focus":"rgba(42, 10, 10, 0.96)",
-            "toolbar_field_highlight":"rgb(197, 8, 72)",
-			"toolbar_field_separator":"rgb(229, 69, 73)",
+            "toolbar_field_highlight":"rgb(250, 105, 105)",
+            "toolbar_field_highlight_text":"rgb(56, 11, 21)",
             "toolbar_field_text_focus":"rgb(255, 255, 255)",
             "toolbar_top_separator":"rgba(24, 31, 40, 0)",
             "toolbar_vertical_separator":"rgb(255, 255, 255)"
