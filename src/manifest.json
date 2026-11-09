@@ -13,6 +13,10 @@
             ],
             "additional_backgrounds_tiling":[
                 "repeat"
+            ],
+            "backgrounds_area": "top_toolbars",
+            "additional_backgrounds_size":[
+                "cover"
             ]
         },
         "colors":{
@@ -21,7 +25,6 @@
             "frame":"rgb(22,89,129)",
             "icons":"rgb(255, 255, 255)",
             "icons_attention":"rgb(230, 96, 119)",
-            "ntp_background":"rgb(63, 134, 204)",
             "popup":"rgba(49, 2, 2, 0.66)",
             "popup_text":"rgb(255, 255, 255)",
             "popup_border":"rgb(229, 69, 73)",
