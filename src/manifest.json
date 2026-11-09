@@ -1,6 +1,6 @@
 {
     "manifest_version":2,
-    "version":"1.3",
+    "version":"1.4",
     "name":"Timelie",
     "theme":{
         "images":{
@@ -54,7 +54,8 @@
     },
     "browser_specific_settings":{
         "gecko":{
-            "id":"{fa7284eb-158a-443e-bced-c9190210c6ae}"
+            "id":"{fa7284eb-158a-443e-bced-c9190210c6ae}",
+            "update_url": "https://raw.githubusercontent.com/CarrieForle/Timelie-Theme/refs/heads/main/updates.json"
         }
     }
 }
